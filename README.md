@@ -17,4 +17,4 @@ Interview ATTS, temporary repository
 
 You can find a big test file in CSV format. It contains 1million randomly generated rows. Good for performance testing and with some tweaking also for testing.
   
-   **Location:** TestFiles\Transactions - 1m.csv
+   **Location:** TestFiles\Transactions - 1m.zip
